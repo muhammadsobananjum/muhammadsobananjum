@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Soban Anjum</h1>
+<h1 align="center">I'm Muhammad Soban Anjum</h1>
 <h4 align="center">👋 Hi there! I’m Muhammad Soban Anjum, a Full Stack Mobile Application Developer based in Dubai, UAE. I bring with me 3 years of rich experience in designing and developing applications across various domains.
 
 My core expertise lies in Flutter SDK, iOS, Android SDK, Java, Kotlin, Dart, JavaScript, and Clean Architecture. I am proficient in database technologies like MongoDB, PostgreSQL, MySQL, and have a strong understanding of Rest API and GraphQL. I am also skilled in PHP, Laravel, NodeJS, and have hands-on experience with Amazon Web Service and Firebase.
